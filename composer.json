@@ -1,0 +1,21 @@
+{
+    "name": "since1979/dumpr",
+    "description": "d() and dd() functions for WordPRess thee development.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stephan Nijman",
+            "email": "vanaf1979@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Since1979\\": ""
+        },
+        "files": ["helpers.php"]
+    },
+    "require": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
