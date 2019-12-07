@@ -13,7 +13,7 @@
  * @wordpress-plugin
  * Plugin Name:         Dumpr
  * Plugin URI:          https://vanaf1979.nl/
- * Description:         d() and dd() functions for WordPress thee development.
+ * Description:         Provides Laravel debugging helper funtions for WordPress theme development.
  * Version:             0.8.0
  * Requires at least:   5.3
  * Requires PHP:        7.0
