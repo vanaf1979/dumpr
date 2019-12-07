@@ -74,13 +74,6 @@ dpd();
 
 
 <br/><br/>
-## Frequently Asked Questions
-
-= the functions don't return any output =
-
-In order for these function to generate any output you have to enable debugging in your config.php file.
-
-<br/><br/>
 ## Bugs
 If you find any bugs with this plugin please [open a issue](https://github.com/vanaf1979/dumpr/issues/new).
 
