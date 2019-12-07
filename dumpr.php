@@ -34,7 +34,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 if( WP_DEBUG ) {
 
     /**
-     * Prevent WordPRess output before dump.
+     * Prevent WordPress output before dump.
      */
     ob_start();
 
