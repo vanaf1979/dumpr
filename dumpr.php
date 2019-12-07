@@ -6,7 +6,7 @@
  * @author              Stephan Nijman <vanaf1979@gmail.com>
  * @copyright           2019 Stephan Nijman
  * @license             GPL-2.0-or-later
- * @version             1.0.0
+ * @version             0.8.0
  * 
  * @uses Var-dumper https://github.com/symfony/var-dumper
  *
@@ -14,7 +14,7 @@
  * Plugin Name:         Dumpr
  * Plugin URI:          https://vanaf1979.nl/dumpr
  * Description:         d() and dd() functions for WordPRess thee development.
- * Version:             1.0.0
+ * Version:             0.8.0
  * Requires at least:   5.3
  * Requires PHP:        7.0
  * Author:              Stephan Nijman
