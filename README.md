@@ -39,7 +39,7 @@ NOTE: If you use any of the provided functions and deactivate/remove the plugin 
 ```php
 <?php 
 // Dump a single variable.
-d($some_var); ?>
+d($some_var);
 
 // The d() and dd() functions except multiple varialbes.
 d($some_var, $som_other_var);
