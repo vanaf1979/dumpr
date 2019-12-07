@@ -31,7 +31,7 @@ if ( ! function_exists('d') && function_exists('dump') ) {
 /**
  * dp.
  *
- * Dump the current post obect with meta fields.
+ * Dump the current post object with meta fields.
  * 
  * @uses Var-dumper https://github.com/symfony/var-dumper
  *
@@ -50,7 +50,7 @@ if ( ! function_exists('dp') && function_exists('dump') ) {
             $post = array();
         }
         
-        if( $post->ID ) {
+        if( isset( $post->ID ) ) {
             $meta = get_post_meta( $post->ID );
         } else {
             $meta = array();
@@ -65,7 +65,7 @@ if ( ! function_exists('dp') && function_exists('dump') ) {
 /**
  * dpd.
  *
- * Dump the current post obect with meta fields.
+ * Dump the current post object with meta fields and die.
  * 
  * @uses Var-dumper https://github.com/symfony/var-dumper
  *

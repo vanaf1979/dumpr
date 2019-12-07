@@ -87,4 +87,32 @@ if( WP_DEBUG ) {
         }
     }
 
+
+    /**
+     * dp.
+     *
+     * Mock dp() function if debug is false
+     * 
+     * @return void
+     */
+    if ( ! function_exists('dp') ) {
+        function dp() : void {
+            return;
+        }
+    }
+
+
+    /**
+     * dpd.
+     *
+     * Mock dpd() function if debug is false
+     * 
+     * @return void
+     */
+    if ( ! function_exists('dpd') ) {
+        function dpd() : void {
+            return;
+        }
+    }
+
 }

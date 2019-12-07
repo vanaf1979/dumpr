@@ -80,4 +80,4 @@ You should be able to upgrade with no know issues.
 
 == Contributing ==
 
-If you want to contribute please go to [the Dumpr GitHub repositorie](https://nl.wordpress.org/plugins/dumpr/).
+If you want to contribute please go to [the Dumpr GitHub repositorie](https://github.com/vanaf1979/dumpr).
