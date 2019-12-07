@@ -12,7 +12,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:         Dumpr
- * Plugin URI:          https://vanaf1979.nl/dumpr
+ * Plugin URI:          https://vanaf1979.nl/
  * Description:         d() and dd() functions for WordPRess thee development.
  * Version:             0.8.0
  * Requires at least:   5.3
