@@ -2,7 +2,7 @@
 
 | WARNING: Curently in testing phase. Do not use in production sites! |
 | --- |
-<br/><br/>
+  
 Laravel d() and dd() and Symfony Dump() functions for WordPress theme development.
 
 Contributors: vanaf1979  
@@ -66,7 +66,7 @@ dpd();
 
 <br/><br/>
 ## Installation
-1. Download Dumpr from this repositorie.
+1. Download Dumpr from this repository.
 2. Upload Dumpr files to the `/wp-content/plugins/dumpr` directory.
 3. Activate Dumpr from your Plugins page.
 4. Enable debugging in your wp-config.php file. define( 'WP_DEBUG', true );
@@ -87,7 +87,7 @@ If you find any bugs with this plugin please [open a issue](https://github.com/v
 
 <br/><br/>
 ## Contributing
-This repositorie uses GitFlow.
-1. Fork this repositorie and create a new branche starting from the develop branch.
+This repository uses GitFlow.
+1. Fork this repository and create a new branche starting from the develop branch.
 2. Make your changes.
 3. Issue a pull request back into the develop branch.
